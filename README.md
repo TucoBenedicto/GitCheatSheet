@@ -55,6 +55,10 @@ D’ailleurs, lorsque ces deux conditions sont remplies, un bandeau apparaît à
 
 <span style="color:green">*OC représente le nom court que vous utiliserez ensuite pour appeler votre dépôt. Appelez-le comme bon vous semble, mais un nom court et simple est toujours plus facile par exemple : git push OC *</span>.
 
+<span style="color:green">*lister les noms des dépôts distants ainsi que leurs adresses URL complètes*</span>.
+
+>git remote -v
+
 ### <span style="color:yellow">Travailler avec un remote repository tiers</span>
 
 <span style="color:green">*lier notre depot local (origin) à depot distant (remote repository)*</span>.
