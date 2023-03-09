@@ -179,4 +179,8 @@ comprendre l'upstream : https://code-garage.fr/blog/a-quoi-sert-le-parametre-u-l
  
 > git push clone // (les fois suivantes !) 
 
+<span style="color:red">*dans le cas ou je checkout de branch (origin) et que je veux envoyer son contenu sur mon repo*</span>
+> git checkout nomDeLaBranch
+>git push -u clone partie-4/chapitre-2-a
+
 <span style="color:red">*!! Procedure à répéter pour chaque nouvelle branche !!*</span>
